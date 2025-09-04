@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/react-redux-todo-list-app/static/js/main.b06d01b4.js",
+    "static/js/787.0ec44933.chunk.js": "/react-redux-todo-list-app/static/js/787.0ec44933.chunk.js",
+    "static/media/plus.png": "/react-redux-todo-list-app/static/media/plus.132696644e79a1f05c3b.png",
+    "static/media/cancel.png": "/react-redux-todo-list-app/static/media/cancel.c7472748b1e5c19b38e5.png",
+    "index.html": "/react-redux-todo-list-app/index.html",
+    "main.b06d01b4.js.map": "/react-redux-todo-list-app/static/js/main.b06d01b4.js.map",
+    "787.0ec44933.chunk.js.map": "/react-redux-todo-list-app/static/js/787.0ec44933.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b06d01b4.js"
+  ]
+}
